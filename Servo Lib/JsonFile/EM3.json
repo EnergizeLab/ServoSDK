@@ -1,0 +1,272 @@
+{
+   "ServoTables":[
+        {
+          "Address": 0,
+          "RW": "R",
+          "Length": 2,
+          "Name": "Model Number"
+        },
+        {
+          "Address": 2,
+          "RW": "R",
+          "Length": 1,
+          "Name": "Firmware Version"
+        },
+        {
+          "Address": 3,
+          "RW": "R",
+          "Length": 4,
+          "Name": "Model Information"
+        },
+        {
+          "Address": 7,
+          "RW": "R/W",
+          "Length": 1,
+          "Name": "Servo ID"
+        },
+        {
+          "Address": 8,
+          "RW": "R/W",
+          "Length": 1,
+          "Name": "Baud Rate"
+        },
+
+        {
+          "Address": 9,
+          "RW": "R/W",
+          "Length": 1,
+          "Name": "Return Delay Time"
+        },
+        {
+          "Address": 10,
+          "RW": "R/W",
+          "Length": 1,
+          "Name": "Return Level"
+        },
+        {
+          "Address": 11,
+          "RW": "R/W",
+          "Length": 2,
+          "Name": "Min Angle Limit"
+        },
+        {
+          "Address": 13,
+          "RW": "R/W",
+          "Length": 2,
+          "Name": "Max Angle Limit"
+        },
+        {
+          "Address": 15,
+          "RW": "R/W",
+          "Length": 1,
+          "Name": "Max Temperature Limit"
+        },
+        {
+          "Address": 16,
+          "RW": "R/W",
+          "Length": 1,
+          "Name": "Max Voltage Limit"
+        },
+        {
+          "Address": 17,
+          "RW": "R/W",
+          "Length": 1,
+          "Name": "Min Voltage Limit"
+        },
+        {
+          "Address": 18,
+          "RW": "R/W",
+          "Length": 2,
+          "Name": "Max PWM Limit"
+        },
+        {
+          "Address": 20,
+          "RW": "R/W",
+          "Length": 2,
+          "Name": "Max Current Limit"
+        },
+        {
+          "Address": 22,
+          "RW": "R/W",
+          "Length": 2,
+          "Name": "Current Time"
+        },
+        {
+          "Address": 24,
+          "RW": "R/W",
+          "Length": 1,
+          "Name": "CW Dead Band Init"
+        },
+        {
+          "Address": 25,
+          "RW": "R/W",
+          "Length": 1,
+          "Name": "CCW Dead Band Init"
+        },
+        {
+          "Address": 26,
+          "RW": "R/W",
+          "Length": 1,
+          "Name": "PWM Min Init"
+        },
+        {
+          "Address": 27,
+          "RW": "R/W",
+          "Length": 2,
+          "Name": "Position P Init"
+        },
+        {
+          "Address": 29,
+          "RW": "R/W",
+          "Length": 2,
+          "Name": "Position I Init"
+        },
+        {
+          "Address": 31,
+          "RW": "R/W",
+          "Length": 2,
+          "Name": "Position D Init"
+        },
+        {
+          "Address": 33,
+          "RW": "R/W",
+          "Length": 1,
+          "Name": "LED Condition"
+        },
+        {
+          "Address": 34,
+          "RW": "R/W",
+          "Length": 1,
+          "Name": "Shutdown Condition"
+        },
+        {
+          "Address": 35,
+          "RW": "R/W",
+          "Length": 1,
+          "Name": "Operating Mode"
+        },
+
+        {
+          "Address": 46,
+          "RW": "R/W",
+          "Length": 1,
+          "Name": "EEProm SW"
+        },
+        {
+          "Address": 47,
+          "RW": "R/W",
+          "Length": 1,
+          "Name": "LED SW"
+        },
+        {
+          "Address": 48,
+          "RW": "R/W",
+          "Length": 1,
+          "Name": "Torque SW"
+        },
+
+        {
+          "Address": 49,
+          "RW": "R/W",
+          "Length": -2,
+          "Name": "Aim PWM"
+        },
+        {
+          "Address": 51,
+          "RW": "R/W",
+          "Length": -2,
+          "Name": "Aim Current"
+        },
+        {
+          "Address": 53,
+          "RW": "R/W",
+          "Length": 2,
+          "Name": "Plan Profile Position"
+        },
+        {
+          "Address": 55,
+          "RW": "R/W",
+          "Length": 2,
+          "Name": "Plan Profile Velocity"
+        },
+        {
+          "Address": 57,
+          "RW": "R/W",
+          "Length": 1,
+          "Name": "Plan Profile ACC"
+        },
+        {
+          "Address": 58,
+          "RW": "R/W",
+          "Length": 1,
+          "Name": "Plan Profile DEC"
+        },
+        {
+          "Address": 59,
+          "RW": "R/W",
+          "Length": 1,
+          "Name": "Plan Time ACC"
+        },
+        {
+          "Address": 60,
+          "RW": "R/W",
+          "Length": 2,
+          "Name": "Plan Time Position"
+        },
+        {
+          "Address": 62,
+          "RW": "R/W",
+          "Length": 2,
+          "Name": "Plan Time Moving Time"
+        },
+        {
+          "Address": 64,
+          "RW": "R",
+          "Length": 1,
+          "Name": "Present Voltage"
+        },
+        {
+          "Address": 65,
+          "RW": "R",
+          "Length": -1,
+          "Name": "Present Temperature"
+        },
+        {
+          "Address": 66,
+          "RW": "R",
+          "Length": -2,
+          "Name": "Present PWM"
+        },
+        {
+          "Address": 68,
+          "RW": "R",
+          "Length": 2,
+          "Name": "Present Profile Velocity"
+        },
+        {
+          "Address": 70,
+          "RW": "R",
+          "Length": 2,
+          "Name": "Present Profile Position"
+        },
+        {
+          "Address": 72,
+          "RW": "R",
+          "Length": -2,
+          "Name": "present Velocity"
+        },
+        {
+          "Address": 74,
+          "RW": "R",
+          "Length": 2,
+          "Name": "Present Position"
+        },
+        {
+          "Address": 76,
+          "RW": "R",
+          "Length": 2,
+          "Name": "Present Current"
+        }
+   ]
+
+}
