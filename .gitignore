@@ -2,3 +2,7 @@
 bin/
 obj/
 packages/
+DebugConfig/
+EM3-STM32F103C8Tx/
+RTE/
+MCU/STM32F103C8T6/KM3/MDK-ARM/EM3-STM32F103C8Tx.uvguix.Shaynerain
