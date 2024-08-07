@@ -1,1 +1,2 @@
 # ServoSDK
+Welcome to ServoSDK, an open-source software development toolkit designed specifically for EnergizeLab Servo. This SDK offers multi-language, multi-platform examples and motion control demos for easy and efficient utilization of various servo models including EM-2030. We strongly recommend integrating with corresponding servo memory map parameters for understanding and validation purposes.
