@@ -41,5 +41,5 @@
 
 - UART to TTL Circuit Diagram 
     - <img src="images/UART2TTL.png?raw=true" alt="UART2TTL" width="100%">
-    - <img src="images/UART2TTL_5to3v3.png?raw=true" alt="UART2TTL_5to3v3" width="80%">   
+    - <img src="images/UART2TTL_5to3v3.png?raw=true" alt="UART2TTL_5to3v3" width="100%">   
 
